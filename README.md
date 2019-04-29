@@ -1,6 +1,6 @@
 # rough-deployment-image
 
-Fast rough deployment via "sspass -p P@Ss \<your_commands\>"
+Fast rough deployment via "sshpass -p P@Ss \<your_commands\>"
 
 ### Usage
 

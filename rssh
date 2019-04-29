@@ -1,0 +1,3 @@
+#!/bin/bash
+
+sshpass -p ${TARGET_PASSWORD} ssh ${TARGET_USERNAME}@${TARGET_HOST} "$@"
